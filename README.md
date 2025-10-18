@@ -1,3 +1,5 @@
+![Snake animation](https://raw.githubusercontent.com/ThisaraS97/ThisaraS97/output/github-contribution-grid-snake.svg)
+
 # Hi, I'm Thisara 🙋‍♂️
 Hi, I'm Thisara Shaminda! As a Web Developer, I thrive on solving complex problems and tackling new challenges. I'm passionate about working on diverse projects and continuously learning about emerging technologies.
 
